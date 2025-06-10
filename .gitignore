@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Environment files
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Build files
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.Python
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Sandbox projects (they have their own repos)
+sandbox/fitness-trainer/
+sandbox/lg-alcesa-construction/
+sandbox/dnd-campaign/
