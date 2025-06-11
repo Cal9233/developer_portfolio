@@ -39,4 +39,11 @@ venv/
 # Sandbox projects (they have their own repos)
 sandbox/fitness-trainer/
 sandbox/lg-alcesa-construction/
-sandbox/dnd-campaign/pdf_converting/
+sandbox/dnd-campaign/
+pdf_converting/
+
+# LG ALCESA assets (belongs in separate repo)
+assets/LG_folder/
+
+# Temporary repos
+temp_repos/
